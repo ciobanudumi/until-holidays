@@ -28,6 +28,7 @@
           document.getElementById("headline").innerText = "Happy holidays!";
           document.getElementById("countdown").style.display = "none";
           document.getElementById("content").style.display = "block";
+          document.getElementById("content2").style.display = "block";
           clearInterval(x);
         }
         //seconds
