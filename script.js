@@ -7,7 +7,7 @@
   //I'm adding this section so I don't have to keep updating this pen every year :-)
   //remove this if you don't need it
   let today = new Date(),
-      birthday = new Date("2024-12-20T16:30:00");
+      birthday = new Date("2025-12-23T16:30:00");
 
   //end
   console.log(birthday);
@@ -34,5 +34,6 @@
         //seconds
       }, 0)
   }());
+
 
 
